@@ -27,3 +27,9 @@ As I was talking to them, not one but two people showed up in electric wheelchai
 <https://youtu.be/KEDrMriKsFM>
 
 https://youtu.be/KEDrMriKsFM
+
+The second was an actual jet powered hoverboard.  If you think of the Goblin in Spiderman you’ll get the idea.  The board has so much power it can apparently take someone up to 10,000 feet in the air.  It made a lot of noise, but so did the first generation of two stroke jet skis which are now as quiet as motorbikes.
+
+What could possibly beat that?  How about a fully automated personal drone helicopter.  A Chinese company recently signed a deal with a major US health company to ship human organs, likely between regional health centers.
+
+<https://youtu.be/wbeoTnuo2-U>
