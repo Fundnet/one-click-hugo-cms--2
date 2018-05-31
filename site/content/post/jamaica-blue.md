@@ -19,7 +19,7 @@ The Blue Mountains are considered by many to be a hiker's and camper's paradise.
 
 This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
 
-![](/img/about-jumbotron.jpg)
+![null](/img/about-jumbotron.jpg)
 
 ## What you need to know before trying
 
