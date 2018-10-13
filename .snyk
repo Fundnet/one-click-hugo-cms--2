@@ -1,0 +1,36 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.12.0
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  'npm:debug:20170905':
+    - browser-sync > socket.io > socket.io-adapter > socket.io-parser > debug:
+        patched: '2018-10-13T01:55:41.462Z'
+  'npm:hoek:20180212':
+    - netlify-cms > fsevents > node-pre-gyp > hawk > cryptiles > boom > hoek:
+        patched: '2018-10-13T01:55:41.462Z'
+    - netlify-cms > fsevents > node-pre-gyp > hawk > sntp > hoek:
+        patched: '2018-10-13T01:55:41.462Z'
+    - netlify-cms > fsevents > node-pre-gyp > hawk > boom > hoek:
+        patched: '2018-10-13T01:55:41.462Z'
+    - browser-sync > chokidar > fsevents > node-pre-gyp > hawk > hoek:
+        patched: '2018-10-13T01:55:41.462Z'
+    - browser-sync > chokidar > fsevents > node-pre-gyp > hawk > boom > hoek:
+        patched: '2018-10-13T01:55:41.462Z'
+    - webpack > watchpack > chokidar > fsevents > node-pre-gyp > hawk > hoek:
+        patched: '2018-10-13T01:55:41.462Z'
+    - netlify-cms > fsevents > node-pre-gyp > hawk > hoek:
+        patched: '2018-10-13T01:55:41.462Z'
+    - browser-sync > chokidar > fsevents > node-pre-gyp > hawk > sntp > hoek:
+        patched: '2018-10-13T01:55:41.462Z'
+    - webpack > watchpack > chokidar > fsevents > node-pre-gyp > hawk > sntp > hoek:
+        patched: '2018-10-13T01:55:41.462Z'
+    - webpack > watchpack > chokidar > fsevents > node-pre-gyp > hawk > boom > hoek:
+        patched: '2018-10-13T01:55:41.462Z'
+    - browser-sync > chokidar > fsevents > node-pre-gyp > hawk > cryptiles > boom > hoek:
+        patched: '2018-10-13T01:55:41.462Z'
+    - webpack > watchpack > chokidar > fsevents > node-pre-gyp > hawk > cryptiles > boom > hoek:
+        patched: '2018-10-13T01:55:41.462Z'
+  'npm:ms:20170412':
+    - browser-sync > socket.io > socket.io-adapter > socket.io-parser > debug > ms:
+        patched: '2018-10-13T01:55:41.462Z'
